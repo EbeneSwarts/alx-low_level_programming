@@ -1,5 +1,6 @@
 #include "main.h"
 #include "_putchar.c"
+#include <stdio.h>
 /**
  * print_last_digit - Check Main
  * @r: An integer input
